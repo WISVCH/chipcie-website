@@ -11,8 +11,10 @@
 }
 
 .archive-link {
+    padding: 0 0.75rem;
     text-align: center;
-    width: 3em;
+    width: 0;
+    white-space: nowrap;
 }
 
 .archive th {
