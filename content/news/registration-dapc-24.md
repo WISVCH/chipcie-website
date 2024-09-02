@@ -15,7 +15,7 @@ This requires all team members to be a student at the Delft Universtity of Techn
 * Born in 2001 or later
 * Have not completed more than 240 points of ECTS
 
-[//]: # (The full details can be found in the [eligibility tree]&#40;https://drive.google.com/file/d/15Wk1nODkAqdUuS6tZnCt2Wrscpvx1QGO/view&#41;.)
+The full details can be found in the [eligibility tree](https://drive.google.com/file/d/1cFXF7ZKNP72ZZrq3yVIrREdk-snse1aX/view?usp=sharing).
 If you doubt you are eligible, feel free to [contact us](/contact).
 In case that your team does not meet the eligibility requirements, you can participate as a *spectator team*.
 
