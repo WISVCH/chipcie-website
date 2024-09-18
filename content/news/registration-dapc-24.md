@@ -5,7 +5,7 @@ tags: ["DAPC 2024"]
 draft: false
 ---
 
-**Edit: DAPC 2024 has reached capacity and the registration is now closed. Still want to be there and experience the contest? [Become a runner!](wisv.ch/dapcrunner)**
+**Edit: DAPC 2024 has reached capacity and the registration is now closed. Still want to be there and experience the contest? [Become a runner!](https://wisv.ch/dapcrunner)**
 
 Also in 2024, the CHipCie will organise the Delft Algorithm Programming Contest (DAPC). This event is free for all TU Delft
 students. The best teams will qualify to represent the Delft University of Technology on the [Benelux Algorithm Programming Contest](https://bapc.eu/).
