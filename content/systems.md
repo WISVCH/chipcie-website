@@ -133,4 +133,4 @@ The following reference materials will be available on the teams' workstations t
 - [Python 3.10.14 documentation](https://docs.python.domainunion.de/release/3.10.14/)
 - [Java® Platform, Standard Edition & Java Development Kit Version 17 API Specification](https://docs.oracle.com/en/java/javase/17/docs/api/)
 - [Kotlin Language Documentation 1.6.20 (As PDF)](http://web.archive.org/web/20220610202819if_/https://kotlinlang.org/docs/kotlin-reference.pdf)
-- [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/8.1/team.html)
+- [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/8.3/team.html)
