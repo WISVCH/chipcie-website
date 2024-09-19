@@ -17,7 +17,7 @@ The configuration of each workstation will be as follows:
 
 The software configuration will consist of the following:
 - OS:
-    - Ubuntu 22.04 LTS Linux (64-bit)
+    - Ubuntu 24.04 LTS Linux (64-bit)
 - Desktop:
     - Xfce
 - Editors:
@@ -75,7 +75,7 @@ The following languages are allowed during the contest:
     - Compiler version: 11.4.0
     - Standard: gnu++20
 - Python
-    - Version: PyPy 7.3.9 (Python 3.8.13)
+    - Version: PyPy 7.3.16 (Python 3.10.14)
 - Java
     - Version: 17.0.8
 - Kotlin
@@ -130,7 +130,7 @@ The following reference materials will be available on the teams' workstations t
 
 - [C reference from cppreference.com](https://en.cppreference.com/w/c)
 - [C++ reference from cppreference.com](https://en.cppreference.com/w/cpp)
-- [Python 3.8.13 documentation](https://docs.python.domainunion.de/release/3.8.13/)
+- [Python 3.10.14 documentation](https://docs.python.domainunion.de/release/3.10.14/)
 - [Java® Platform, Standard Edition & Java Development Kit Version 17 API Specification](https://docs.oracle.com/en/java/javase/17/docs/api/)
 - [Kotlin Language Documentation 1.6.20 (As PDF)](http://web.archive.org/web/20220610202819if_/https://kotlinlang.org/docs/kotlin-reference.pdf)
 - [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/8.1/team.html)
