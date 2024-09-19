@@ -7,7 +7,7 @@ weight: 20
 menu: main
 ---
 
-This page describes current plans for the Programming Environment which will be available to each DAPC 2023 team.
+This page describes current plans for the Programming Environment which will be available to each DAPC 2024 team.
 **Please note that these plans are subject to change.**
 
 Each team will be provided with one workstation, shared between team members.
@@ -17,7 +17,7 @@ The configuration of each workstation will be as follows:
 
 The software configuration will consist of the following:
 - OS:
-    - Ubuntu 22.04 LTS Linux (64-bit)
+    - Ubuntu 24.04 LTS Linux (64-bit)
 - Desktop:
     - Xfce
 - Editors:
@@ -75,7 +75,7 @@ The following languages are allowed during the contest:
     - Compiler version: 11.4.0
     - Standard: gnu++20
 - Python
-    - Version: PyPy 7.3.9 (Python 3.8.13)
+    - Version: PyPy 7.3.16 (Python 3.10.14)
 - Java
     - Version: 17.0.8
 - Kotlin
@@ -85,7 +85,7 @@ Note that Python 2 is no longer supported.
 
 ## Compilation of Submissions
 
-During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMjudge](https://www.domjudge.org) contest control system (version 8.2.1). This can be done through the [web interface](https://www.domjudge.org/docs/manual/8.2/team.html#web-interface), or using the [submit client](https://www.domjudge.org/docs/manual/8.2/team.html#command-line-submit).
+During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMjudge](https://www.domjudge.org) contest control system (version 8.3.1). This can be done through the [web interface](https://www.domjudge.org/docs/manual/8.3/team.html#web-interface), or using the [submit client](https://www.domjudge.org/docs/manual/8.3/team.html#command-line-submit).
 Source files submitted to the Judges will be compiled using the following command line arguments for the respective language:
 
 - C:
@@ -130,7 +130,7 @@ The following reference materials will be available on the teams' workstations t
 
 - [C reference from cppreference.com](https://en.cppreference.com/w/c)
 - [C++ reference from cppreference.com](https://en.cppreference.com/w/cpp)
-- [Python 3.8.13 documentation](https://docs.python.domainunion.de/release/3.8.13/)
+- [Python 3.10.14 documentation](https://docs.python.domainunion.de/release/3.10.14/)
 - [Java® Platform, Standard Edition & Java Development Kit Version 17 API Specification](https://docs.oracle.com/en/java/javase/17/docs/api/)
 - [Kotlin Language Documentation 1.6.20 (As PDF)](http://web.archive.org/web/20220610202819if_/https://kotlinlang.org/docs/kotlin-reference.pdf)
-- [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/8.1/team.html)
+- [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/8.3/team.html)
