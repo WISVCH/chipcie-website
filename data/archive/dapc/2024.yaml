@@ -4,10 +4,10 @@ contest:
   type: dapc
   year: 2024
 resources:
-  problems:
-  slides:
-  data:
+  problems: problemset.pdf
+  slides: solutions.pdf
+  data: solutions.zip
 links:
   photos:
   website:
-  result:
+  result: /archive/2024/dapc/scoreboard/
