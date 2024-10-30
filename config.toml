@@ -5,8 +5,10 @@ theme = "ananke"
 copyright = "W.I.S.V. `Christiaan Huygens'"
 
 SectionPagesMenu = "main"
-Paginate = 5
 enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 5
 
 [markup.goldmark.renderer]
   unsafe = true
