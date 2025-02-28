@@ -1,0 +1,13 @@
+contest:
+  name: NWERC 2024
+  date: Delft, November 22-24
+  type: nwerc
+  year: 2024
+resources:
+  problems: problem-set.pdf
+  slides: solutions.pdf
+  data: solutions.zip
+links:
+  photos: https://2024.nwerc.eu/photos
+  website: https://2024.nwerc.eu/
+  result: /archive/2024/nwerc/scoreboard/
