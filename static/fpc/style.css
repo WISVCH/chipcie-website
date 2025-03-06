@@ -13,13 +13,6 @@ h1 {
 	color: white;
 }
 
-ul, ol {
-	color: white;
-	font-family: serif;
-	font-size: 120%;
-	margin: 20px 20px 50px 80px;
-}
- 
 h2 {
 	color: white;
 	font-family: "Chivo";
@@ -31,10 +24,14 @@ h4 {
 	color: gray;
 }
 
-p {
+p, ul, ol {
 	color: white;
 	font-size: 120%;
 	font-family: serif;
+}
+
+ul, ol {
+	margin: 20px 20px 50px 80px;
 }
 
 a {
