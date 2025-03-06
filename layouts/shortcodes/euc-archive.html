@@ -1,0 +1,11 @@
+<table class="archive helvetica">
+  <thead>
+    <tr><th>Name</th><th>Date</th></tr>
+  </thead>
+  <tbody>
+{{ range sort $.Site.Data.archive.euc "contest.year" "desc" }}
+  {{ partial "archive-table" . }}
+{{ end }}
+  </tbody>
+</table>
+

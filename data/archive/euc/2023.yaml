@@ -1,0 +1,13 @@
+contest:
+  name: EUC 2023-2024
+  date: Prague, March 22-24
+  type: euc
+  year: 2023
+resources:
+  problems: problem-set.pdf
+  slides: solutions.pdf
+  data: solutions.zip
+links:
+  photos: https://news.icpc.global/galleryEU/?album=2024
+  website: https://euc.icpc.global/home-2024/
+  result: /archive/2023/euc/scoreboard.html

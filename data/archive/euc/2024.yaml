@@ -1,0 +1,13 @@
+contest:
+  name: EUC 2024-2025
+  date: Porto, Feb 28-Mar 2
+  type: euc
+  year: 2024
+resources:
+  problems: problem-set.pdf
+  slides: solutions.pdf
+  data: solutions.zip
+links:
+  photos: https://news.icpc.global/galleryEU/?album=2025
+  website: https://euc.icpc.global/home-2025/
+  result: /archive/2024/euc/scoreboard.html

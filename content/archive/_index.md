@@ -15,6 +15,7 @@ This page contains exercises, test sets and solutions of several contests. You c
  * [Delft Algorithm Programming Contest (DAPC)](/archive/dapc)
  * [Benelux Algorithm Programming Contest (BAPC)](/archive/bapc)
  * [Northwestern Europe Regional Contest (NWERC)](/archive/nwerc)
+ * [European Championship (EUC)](/archive/euc)
 
 # Other archives
  * [ICPC World Finals Problem archive](https://icpc.global/worldfinals/problems)
@@ -31,6 +32,9 @@ These problem sets are shared across all preliminary contests in the Benelux.
 
 # NWERC Archive
 {{< nwerc-archive >}}
+
+# EUC Archive
+{{< euc-archive >}}
 
 # FPC Archive
 {{< fpc-archive >}}
