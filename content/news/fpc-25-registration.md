@@ -7,7 +7,7 @@ draft: false
 
 Are you a freshman and do you want to solve puzzles in a team with your friends? Then the Freshmen Programming Contest is for you!
 
-On the 3th of May, the annual Freshmen Programming Contest will be held. The puzzles are suited for both beginners and experts, so don't be afraid to join! This contest is a great opportunity for you to sharpen your programming and puzzling skills!
+On the 3rd of May, the annual Freshmen Programming Contest will be held. The puzzles are suited for both beginners and experts, so don't be afraid to join! This contest is a great opportunity for you to sharpen your programming and puzzling skills!
 
 The event lasts approximately from 10:00 until 18:00. More details will be shared with you in advance of the contest. Teams with non-freshmen members are able to join as space allows, but will be assigned to the spectator pool, meaning they do not count towards the final ranking.
 
