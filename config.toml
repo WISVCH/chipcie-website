@@ -2,7 +2,7 @@ baseURL = 'https://chipcie.wisv.ch'
 languageCode = 'en-gb'
 title = 'CHipCie'
 theme = "ananke"
-copyright = "W.I.S.V. `Christiaan Huygens'"
+copyright = "W.I.S.V. ‘Christiaan Huygens’"
 
 SectionPagesMenu = "main"
 enableRobotsTXT = true
