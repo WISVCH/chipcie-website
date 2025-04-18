@@ -131,6 +131,6 @@ The following reference materials will be available on the teams' workstations t
 - [C reference from cppreference.com](https://en.cppreference.com/w/c)
 - [C++ reference from cppreference.com](https://en.cppreference.com/w/cpp)
 - [Python 3.11.11 documentation](https://docs.python.org/release/3.11.11/)
-- [Java® Platform, Standard Edition & Java Development Kit Version 17 API Specification](https://docs.oracle.com/en/java/javase/21/docs/api/)
-- [Kotlin Language Documentation 2.1.20 (As PDF)](https://kotlinlang.org/docs/kotlin-reference.pdf)
+- [Java® Platform, Standard Edition & Java Development Kit Version 21 API Specification](https://docs.oracle.com/en/java/javase/21/docs/api/)
+- [Kotlin Language Documentation 2.1.20 (As PDF)](https://raw.githubusercontent.com/JetBrains/kotlin-web-site/e3ec93b63240397ae404e9c492b7dadaf2e67625/assets/kotlin-reference.pdf)
 - [DOMjudge Team Manual (As PDF)](https://www.domjudge.org/docs/manual/8.3/team.html)
