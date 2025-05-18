@@ -1,0 +1,13 @@
+contest:
+  name: FPC 2025
+  date: May 3
+  type: fpc
+  year: 2025
+resources:
+  problems: problemset.pdf
+  slides: solutions.pdf
+  data: solutions.zip
+links:
+  photos: #https://ch.tudelft.nl/media/photos/?type_0=gallery&album_gallery_id_0=235
+  website:
+  result: /archive/2025/fpc/scoreboard/
