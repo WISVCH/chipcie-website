@@ -6,7 +6,7 @@ draft: false
 ---
 **Update**: The max number of teams is reached and the registration is closed.
 
-Also in 2023, the CHipCie will organise the Delft Algorithm Programming Contest (DAPC). This event is free for all TU Delft
+Also in 2023, the CHipCie will organize the Delft Algorithm Programming Contest (DAPC). This event is free for all TU Delft
 students. The best teams will qualify to represent the Delft University of Technology on the [Benelux Algorithm Programming Contest](https://2023.bapc.eu/).
 
 The contest will take place on Saturday the 23rd of September 2023. The program will be posted here on a later date.

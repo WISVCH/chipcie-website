@@ -21,7 +21,7 @@ You can test your solutions to problems on [open Kattis](https://open.kattis.com
 You can submit problems or create/join an online contest with different types of problems.
 An overview of the previous years problems available on open Kattis can be found [here](https://open.kattis.com/problem-sources).
 
-## Organise your team
+## Organize your team
 Competing as a team is harder than competing alone. You only have 1 computer and 3 people eager to solve problems.
 You want to spend time effective to focus on the problems, not discussing who can use the computer of solve which problem.
 Unfortunately this still happens, even in teams that make it to the world finals.
@@ -64,7 +64,7 @@ so you won’t have to lose time on with it during the real contest.
  * Locate where the documentation for your languages is available
  * Try printing from IDE, command line and DOMjudge
  * Check whether command-line submit client is available or submission goes through the browser
- * Try submitting all types of results in DOMJudge (check in the manual for all variants)
+ * Try submitting all types of results in DOMjudge (check in the manual for all variants)
    - Correct (also known as Accepted, AC)
    - Wrong Answer (WA)
    - Run Time Error (RTE)
@@ -112,7 +112,7 @@ running the program, starting the JVM or interpreter (if applicable), parsing th
 If you are afraid that you solution runs within the time limit, you can generate
 a maximum input test case and measure the runtime on your machine with the [`time`](https://www.man7.org/linux/man-pages/man1/time.1.html) command.
 
-The organisation of a contest tries to make the machines for judging and contestants equal, but this is not always the case.
+The organization of a contest tries to make the machines for judging and contestants equal, but this is not always the case.
 Therefore, the timing on your machine is no guarantee for the timing on the judge host.
 
 ## More advice from the jury
@@ -127,4 +127,4 @@ as well as tips about interactive problems.
  * Do not do string concatenation with + in a loop!
  * Calling functions is more expensive than you might think!
  * For Java, `BufferedReader` is faster than `Scanner`!
- * Don't forget to eat and drink. Programming contest is a sport, and you need to be energised and focussed for 5 hours.
+ * Don't forget to eat and drink. Programming contest is a sport, and you need to be energized and focussed for 5 hours.

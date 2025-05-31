@@ -20,32 +20,33 @@ Delft Algorithm Programming Contest (DAPC). This contest is open for all teams c
 The best teams are then selected to participate in
 the [Benelux Algorithm Programming Contest (BAPC)](https://www.bapc.eu).
 In this contest the top teams of the TU Delft will qualify to participate in
-the [North Western Europe Regional Contests (NWERC)](https://www.nwerc.eu).
-The winners of the NWERC will qualify to participate in the ICPC.
+the [Northwestern Europe Regional Contest (NWERC)](https://www.nwerc.eu).
+The winners of the NWERC will qualify to participate in the [European Championship (EUC)](https://euc.icpc.global)
+or the [World Finals](https://worldfinals.icpc.global).
 
-These contests are organised every year, the DAPC is usually organised in September. All students of the TU Delft can
+These contests are organized every year, the DAPC is usually organized in September. All students of the TU Delft can
 participate so if you are interested in solving puzzles and writing algorithms feel free to register for one of the
 contests!
 
 [Sample exercise](/sample)
 
-# Organisation
+# Organization
 
-Every year, the [ICPC Foundation](https://icpc.foundation) organises international programming contests for students,
-with regional preliminary rounds (in our case North-West Europe). The teams that finally win the contests, will be
+Every year, the [ICPC Foundation](https://icpc.foundation) organizes international programming contests for students,
+with regional preliminary rounds (in our case Northwestern Europe). The teams that finally win the contests, will be
 qualified to attend the World Finals.
 
-Every university is allowed to submit a few teams to participate in the regional (the NWERC). However, since there are a
-lot of students of the TU Delft willing to participate in these events, we organise the DAPC (Delft Algorithm
-Programming Contest), where the best teams will be selected to proceed.
+Every university is allowed to submit a few teams to participate in the regional contest (in our case, the NWERC).
+However, since there are a lot of students of the TU Delft willing to participate in these events, we organize the DAPC,
+where the best teams will be selected to proceed.
 
-The best teams of the various universities then participate in the BAPC (Benelux Algorithm Programming Contest). Every
-year, a different university in the region hosts this event, usually a few weeks after the DAPC. The results of the BAPC
-will be used to send the best teams of the Benelux to the NWERC (North-West Europe Regional Contest).
+The best teams of the various universities then participate in the BAPC.
+Every year, a different university in the region hosts this event, usually a few weeks after the DAPC.
+The results of the BAPC will be used to send the best teams per university of the Benelux to the NWERC.
 
 # Contest
 The procedure for the preliminary contests is very similar to that of the international contests. Participants are
-organised in teams of up to three persons. The contest consists of 8 to 13 algorithmic problems. The goal of your team is
+organized in teams of up to three persons. The contest consists of 8 to 13 algorithmic problems. The goal of your team is
 to create a solution for such a problem in the form of a program. Your program will have to read data from an input file
 and give back the result as output.
 
@@ -58,7 +59,7 @@ Each team will be provided with a workspace with one computer to implement and t
 take as many books and notes with you as you are able to, but bringing USB drives, calculators, laptops, smartphones and
 such is not allowed.
 Starting from the BAPC, you are only allowed up to 25 pages of A4
-(see [Team Contest Reference](/resources/#team-contest-reference-tcr)).
+(see [Team Reference Document](/resources/#team-reference-document-trd)).
 
 # Score
 The contest is 5 hours long. This means you have 5 hours to solve as many problems as you can. Your score is based on

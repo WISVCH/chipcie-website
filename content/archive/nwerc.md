@@ -4,7 +4,7 @@ Title: NWERC Problem Set Archive
 menu: Archive
 ---
 # {.Title}
-The first European Regional Contest (ERC) was organised in 1983.<br>
+The first European Regional Contest (ERC) was organized in 1983.<br>
 In 1992, the region was split in west and east,
 which created the Western European Regional Contest (WERC).<br>
 In 1994, the region was split again in north and south,

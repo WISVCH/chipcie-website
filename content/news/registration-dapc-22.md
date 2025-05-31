@@ -6,7 +6,7 @@ draft: false
 ---
 **Update: Registration is closed. We are at full capacity of 60 teams.**
 
-Also in 2022, the CHipCie will organise the Delft Algorithm Programming Contest (DAPC). This event is free for all TU Delft
+Also in 2022, the CHipCie will organize the Delft Algorithm Programming Contest (DAPC). This event is free for all TU Delft
 students. The best teams will qualify to represent the Delft University of Technology on the [Benelux Algorithm Programming Contest](https://2022.bapc.eu/).
 
 The contest will take place on Saturday the 24th of September 2022. The program will be posted here on a later date.
