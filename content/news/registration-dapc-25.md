@@ -4,6 +4,7 @@ date: 2025-04-30T09:00:00+02:00
 tags: ["DAPC 2025"]
 draft: false
 ---
+**Update**: The max number of teams is reached and the registration is closed.
 
 Also in 2025, the CHipCie will organize the Delft Algorithm Programming Contest (DAPC). This event is free for all TU Delft students.
 The best teams will qualify to represent the Delft University of Technology on the [Benelux Algorithm Programming Contest](https://2025.bapc.eu/).
