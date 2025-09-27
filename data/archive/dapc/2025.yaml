@@ -1,0 +1,13 @@
+contest:
+  name: DAPC 2025
+  date: September 20
+  type: dapc
+  year: 2025
+resources:
+  problems: problemset.pdf
+  slides: solutions.pdf
+  data: solutions.zip
+links:
+  photos:
+  website:
+  result: /archive/2025/dapc/scoreboard/
