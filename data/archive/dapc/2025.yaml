@@ -8,6 +8,6 @@ resources:
   slides: solutions.pdf
   data: solutions.zip
 links:
-  photos:
+  photos: https://photos.ch.tudelft.nl/zmqyyw-dapc
   website:
   result: /archive/2025/dapc/scoreboard/

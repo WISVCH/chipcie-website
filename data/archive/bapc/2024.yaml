@@ -8,6 +8,6 @@ resources:
   slides: solutions.pdf
   data: solutions.zip
 links:
-  photos:
+  photos: https://svcover.nl/photos/1603
   website: https://2024.bapc.eu/
   result: /archive/2024/bapc/scoreboard/
