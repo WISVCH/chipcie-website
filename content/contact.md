@@ -1,6 +1,5 @@
 ---
 title: Contact
-featured_image: "images/notebook.jpg"
 description: We'd love to hear from you
 featured_image: /images/YAW02631.webp
 featured_image_alignment: top
@@ -10,7 +9,7 @@ menu: main
 You can contact the CHipCie with questions or comments using the contact information below. For inquiries regarding possible sponsoring please contact Wiskunde en Informatica Studievereniging 'Christiaan Huygens'.
 
 ## Mail/visit Address
-W.I.S.V. 'Christiaan Huygens'\
+W.I.S.V. ‘Christiaan Huygens’\
 t.a.v. CHipCie\
 Mekelweg 4\
 2628 CD Delft
