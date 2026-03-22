@@ -14,3 +14,5 @@ The event lasts approximately from 10:00 until 18:00. More details will be share
 Please fill in the [registration form](https://wisv.ch/fpcregistration) to complete your registration. Only after submitting the form, your team is registered for participating in the FPC.
 
 Can't wait any longer to solve puzzles? Check out the [FPC teaser](https://chipcie.wisv.ch/fpc/teaser) to get a taste of what the contest will be like!
+
+Not a freshman and want to see the contest from another angle? Become a runner at [wisv.ch/fpcrunner](https://wisv.ch/fpcrunner)!
