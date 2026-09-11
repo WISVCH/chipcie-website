@@ -17,8 +17,7 @@ This requires all team members to be a student at the Delft Universtity of Techn
 * Born in 2003 or later
 * Have not completed more than 240 points of ECTS
 
-The full details can be found in [last year's eligibility tree](https://drive.google.com/file/d/1XPuELBOzLNYtjlzGZXKOQTr2Q0SI85dx/view)
-(this year's version should be published soon, but assume that the years are incremented by one and the branch for exactly 5 regionals becomes ineligible again).
+The full details can be found in [the eligibility tree](https://drive.google.com/file/d/1En2UuD8I466pwgFOQ8yswGT2rGlKBf6i/view).
 If you doubt you are eligible, feel free to [contact us](/contact).
 In case that your team does not meet the eligibility requirements, you can participate as a *spectator team*.
 
