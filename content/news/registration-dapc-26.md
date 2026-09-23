@@ -31,3 +31,5 @@ The list of registered teams is [publicly available](https://icpc.global/regiona
 
 For the best preparations, be sure to check out the [archive](/archive), [resources](/resources) and a [sample problem](/sample).
 A preliminary overview of the [programming environment](/systems) used during the contest is also available.
+
+**Update 23 september:** Registration for DAPC is full, it is still possible to register as a spectator team. 
