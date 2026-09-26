@@ -1,0 +1,13 @@
+contest:
+  name: DAPC 2026
+  date: September 26
+  type: dapc
+  year: 2026
+resources:
+  problems: problemset.pdf
+  slides: solutions.pdf
+  data: solutions.zip
+links:
+  photos: #https://photos.ch.tudelft.nl/wacr3h-delft-algorithm-programming-contest
+  website:
+  result: /archive/2026/dapc/scoreboard/
